@@ -12,7 +12,7 @@ def update():
     pygame.display.update()
 
 def create_circle(pos):
-    """ Create circles with random color ans radius """
+    """ Create circles with random color and radius at cursor position """
     r = random.randint(0, 255) # Red value
     g = random.randint(0, 255) # Green value
     b = random.randint(0, 255) # Blue value
