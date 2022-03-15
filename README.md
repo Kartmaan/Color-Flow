@@ -1,6 +1,8 @@
 # Color_Flow
 Cursor movements draw circles with random colors and radius
+
 Left click : enable/disable drawing
+
 Right click : Erase the screen
 
 # Screeshot
